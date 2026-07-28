@@ -105,7 +105,7 @@ will remain the same:
 
 * `pachi -t =5000:15000 --dcnn=df `   kgs 4d (darkforest dcnn)
 * `pachi -t =5000:15000       `       kgs 3d
-* `pachi -t =5000 --nodcnn      `     kgs 3k (mcts only).
+* `pachi -t =5000:10000 --nodcnn  `   kgs 2k (mcts only).
 
 **KGS**
 
